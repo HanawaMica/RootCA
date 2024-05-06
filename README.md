@@ -19,6 +19,6 @@ We created these self-signed certificates for certain purposes.
 ## Deprecated Root CA certificates
 * BloodSnow_RootCA.cer - BloodSnow Studio Primary Root CA, used before 01/01/2017.
 * New_RCRoot.cer - New RainCandy Technology Primary Root CA, used from 10/01/2022 to 02/12/2024.
-* RainCandy_RootCA.cer - RainCandy Technology Root Certificate Authority, used from 01/06/2024, will be deprecated in the future.
+* RainCandy_RootCA.cer - RainCandy Technology Root Certificate Authority, used from 01/06/2024 to 05/05/2024.
 * RainCandy_RootCA_Legacy.cer - Legacy RainCandy Technology Primary Root CA, used before 10/01/2022.
 * RainCandy_RootCA_Win_Legacy.cer - RainCandy Technology Root Authority for Windows, used before 10/01/2022.
